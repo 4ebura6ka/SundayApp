@@ -1,0 +1,10 @@
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\bin\Debug\netcoreapp2.0\SundayAppProducer.deps.json
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\bin\Debug\netcoreapp2.0\SundayAppProducer.runtimeconfig.json
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\bin\Debug\netcoreapp2.0\SundayAppProducer.runtimeconfig.dev.json
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\bin\Debug\netcoreapp2.0\SundayAppProducer.dll
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\obj\Debug\netcoreapp2.0\SundayAppProducer.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\obj\Debug\netcoreapp2.0\SundayAppProducer.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\obj\Debug\netcoreapp2.0\SundayAppProducer.AssemblyInfo.cs
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\bin\Debug\netcoreapp2.0\SundayAppProducer.pdb
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\obj\Debug\netcoreapp2.0\SundayAppProducer.dll
+C:\Users\intel\source\repos\SundayAppProducer\SundayAppProducer\obj\Debug\netcoreapp2.0\SundayAppProducer.pdb

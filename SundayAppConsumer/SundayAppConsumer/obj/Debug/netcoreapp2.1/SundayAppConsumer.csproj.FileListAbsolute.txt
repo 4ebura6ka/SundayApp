@@ -1,0 +1,11 @@
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\obj\Debug\netcoreapp2.1\SundayAppConsumer.csprojResolveAssemblyReference.cache
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\obj\Debug\netcoreapp2.1\SundayAppConsumer.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\obj\Debug\netcoreapp2.1\SundayAppConsumer.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\obj\Debug\netcoreapp2.1\SundayAppConsumer.AssemblyInfo.cs
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\bin\Debug\netcoreapp2.1\SundayAppConsumer.deps.json
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\bin\Debug\netcoreapp2.1\SundayAppConsumer.runtimeconfig.json
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\bin\Debug\netcoreapp2.1\SundayAppConsumer.runtimeconfig.dev.json
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\bin\Debug\netcoreapp2.1\SundayAppConsumer.dll
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\bin\Debug\netcoreapp2.1\SundayAppConsumer.pdb
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\obj\Debug\netcoreapp2.1\SundayAppConsumer.dll
+C:\Users\intel\source\repos\SundayAppConsumer\SundayAppConsumer\obj\Debug\netcoreapp2.1\SundayAppConsumer.pdb
